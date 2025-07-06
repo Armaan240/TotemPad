@@ -21,11 +21,12 @@ Please Ignore Missing Key Caps ,They were currepted but i have their 3d printed 
 
 
 ## BOM OF TOTEMPAD
-1x XIAO RP2040 (with headers)
-5x Cherry MX Switches
-5x Blank DSA Keycaps
-4x SK6812 Mini LEDs
-1x 3D printed Case
-1x 3D printed Cover
-1x PCB
-4x Resistors
+|Qty|Product|
+|----|-----|
+|1x| XIAO RP2040 (with headers)|
+|5x |Cherry MX Switches|
+|5x| Blank DSA Keycaps|
+|4x|SK6812 Mini LEDs|
+|1x| 3D printed Case|
+|1x| 3D printed Cover|
+|1x| PCB4x| Resistors|
