@@ -8,5 +8,20 @@ This Project Is Also Speedrunn and Yah made for UnderCity Just Like The Squid De
 Just Wait for Me You Will be amazed By seeing my MineCraft World
 
 ## Some Imagesss
-Please Ignore Missing Key Caps ,They were
+Please Ignore Missing Key Caps ,They were currepted but i have their 3d printed will paste on any other keycap 
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(125).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(116).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(119).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(118).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(111).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(127).png)
+
+## BOM OF TOTEMPAD
+1x XIAO RP2040 (with headers)
+5x Cherry MX Switches
+5x Blank DSA Keycaps
+4x SK6812 Mini LEDs
+1x 3D printed Case
+1x 3D printed Cover
+1x PCB
+4x Resistors
