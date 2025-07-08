@@ -15,9 +15,8 @@ Please Ignore Missing Key Caps ,They were currepted but i have their 3d printed 
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(125).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(116).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(119).png)
-![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(118).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(135).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(111).png)
-![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(131).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(126).png)
 
 ## BOM OF TOTEMPAD
