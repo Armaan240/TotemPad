@@ -12,8 +12,8 @@ This Was Made Under My Seed Run Challenge Till 8 July In which I will be Maiking
 
 ## Some Imagesss
 Please Ignore Missing Key Caps ,They were currepted but i have their 3d printed will paste on any other keycap 
-![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(125).png)
-![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(116).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(137).png)
+![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(138).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(119).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(135).png)
 ![](https://github.com/Armaan240/TotemPad/blob/main/Images/Screenshot%20(111).png)
